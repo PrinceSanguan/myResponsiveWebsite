@@ -537,22 +537,22 @@ section {
 }
 
 .skill-bar .bar .html {
-  width: 72%;
+  width: 45%;
   animation: html 2s;
 }
 
 .skill-bar .bar .c-sharp {
-  width: 90%;
+  width: 25%;
   animation: c-sharp 3s;
 }
 
 .skill-bar .bar .javascript {
-  width: 80%;
+  width: 35%;
   animation: javascript 4s;
 }
 
 .skill-bar .bar .css {
-  width: 62%;
+  width: 40%;
   animation: css 5s;
 }
 
@@ -823,7 +823,7 @@ footer a i {
   }
 
   100% {
-    width: 72%;
+    width: 45%;
   }
 }
 
@@ -833,7 +833,7 @@ footer a i {
   }
 
   100% {
-    width: 90%;
+    width: 25%;
   }
 }
 
@@ -843,7 +843,7 @@ footer a i {
   }
 
   100% {
-    width: 80%;
+    width: 35%;
   }
 }
 
@@ -853,7 +853,7 @@ footer a i {
   }
 
   100% {
-    width: 62%;
+    width: 40%;
   }
 }
 
