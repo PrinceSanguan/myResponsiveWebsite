@@ -542,12 +542,12 @@ section {
 }
 
 .skill-bar .bar .c-sharp {
-  width: 25%;
+  width: 65%;
   animation: c-sharp 3s;
 }
 
 .skill-bar .bar .javascript {
-  width: 35%;
+  width: 45%;
   animation: javascript 4s;
 }
 
@@ -694,11 +694,13 @@ section {
 .port-content h3 {
   font-size: 1.5rem;
   font-weight: 600;
+  color: yellow;
 }
 
 .port-content p {
   font-size: 0.8rem;
   margin: 5px 0 15px 0;
+  color: yellow;
 }
 
 .port-content a {
@@ -833,7 +835,7 @@ footer a i {
   }
 
   100% {
-    width: 25%;
+    width: 65%;
   }
 }
 
@@ -843,7 +845,7 @@ footer a i {
   }
 
   100% {
-    width: 35%;
+    width: 45%;
   }
 }
 
