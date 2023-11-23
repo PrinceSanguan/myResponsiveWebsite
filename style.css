@@ -694,13 +694,13 @@ section {
 .port-content h3 {
   font-size: 1.5rem;
   font-weight: 600;
-  color: yellow;
+  color: rgb(24, 24, 23);
 }
 
 .port-content p {
   font-size: 0.8rem;
   margin: 5px 0 15px 0;
-  color: yellow;
+  color: rgb(24, 24, 23);
 }
 
 .port-content a {
