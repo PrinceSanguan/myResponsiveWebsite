@@ -1002,3 +1002,8 @@ footer a i {
     font-size: 1rem;
   }
 }
+
+.bmc-button-container {
+  display: flex;
+  justify-content: center;
+}
